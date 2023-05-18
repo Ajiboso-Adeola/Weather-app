@@ -2,7 +2,7 @@
 
 This web application is a basic page created using pure JavaScript. It provides real-time information on various weather conditions by retrieving data from the OpenWeather API.
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<!-- ![](https://img.shields.io/badge/Microverse-blueviolet) -->
 
 # Weather-app in Vanilla Javascript
 
@@ -16,7 +16,7 @@ This web application is a basic page created using JavaScript, html and css. Cre
 
 ### Live Demo link.
 
-[Live Demo](https://sunny-zuccutto-797f3f.netlify.app/)
+<!-- [Live Demo](https://sunny-zuccutto-797f3f.netlify.app/) -->
 
 ## Getting Started
 
@@ -29,7 +29,7 @@ This web application is a basic page created using JavaScript, html and css. Cre
 
 ### Screenshot
 
-![Screenshot 2021-06-06 at 16-14-54 Weather App](https://user-images.githubusercontent.com/43843720/120925963-997e5000-c6e3-11eb-8bc7-545b90bab7a5.png)
+<!-- ![Screenshot 2021-06-06 at 16-14-54 Weather App](https://user-images.githubusercontent.com/43843720/120925963-997e5000-c6e3-11eb-8bc7-545b90bab7a5.png) -->
 
 ## Author
 
