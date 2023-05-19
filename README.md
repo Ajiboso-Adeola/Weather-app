@@ -2,7 +2,7 @@
 
 This web application is a basic page created using JavaScript, html and css. Create a weather forecast site using the weather API. This web application enable you to search for a specific location and toggle the data from °C to °F.
 
-## Built With
+## Tools
 
 - JavaScript
 - CSS & HTML
@@ -10,7 +10,7 @@ This web application is a basic page created using JavaScript, html and css. Cre
 
 ### Live Demo link.
 
-[Live Demo](https://venerable-kitten-a7c457.netlify.app/)
+[Live Demo](https://weather-appthon.vercel.app/)
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ This web application is a basic page created using JavaScript, html and css. Cre
 
 Contributions, issues and feature requests are always welcome!
 
-I love meeting other developers, especially ones that give me advice on how to improve my work.
+I enjoy connecting with fellow developers, especially those who provide helpful advice to enhance my work.
 
 ### How to Contribute
 
