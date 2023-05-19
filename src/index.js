@@ -1,4 +1,3 @@
-// declare the api key
 let apiKey = "8b3c2188b1fe57f318bdcd6231e30d94";
 let apiUrl =
   "https://api.openweathermap.org/data/2.5/weather?units=metric&lang=en";
@@ -53,7 +52,7 @@ let cel;
 //create a clickable function that convert the temp c to f
 document.getElementById("farenheit").addEventListener("click", () => {
   //check that the temp value is empty or nor
-  if (document.getElementById("temp").innerHTML != "") {
+  if (document.getElementById("temp").innerHTML !== "") {
     //store the celcius value in integer format
     cel = parseInt(document.getElementById("temp").innerHTML);
   }
