@@ -12,7 +12,7 @@ This web application is a basic page created using JavaScript, html and css. Cre
 
 ### Live Demo link.
 
-[Live Demo](https://gleeful-taiyaki-1b687c.netlify.app/)
+[Live Demo](https://venerable-kitten-a7c457.netlify.app/)
 
 ## Getting Started
 
