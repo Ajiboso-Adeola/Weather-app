@@ -21,8 +21,7 @@ This web application is a basic page created using JavaScript, html and css. Cre
 
 ### Screenshot
 
-<!-- ![Screenshot 2023-05-19  Weather App]("https://drive.google.com/file/d/1R4YIzhCIEjQW95EBcx32LmuqWd9pFkla/view?usp=share_link") -->
-<img title="Screenshot of weather Ap" alt="screenshot" src="./images/Screenshot.jpg">
+<img title="Screenshot of weather Ap" alt="screenshot" src="/images/Screenshot.jpg">
 
 ## Author
 
