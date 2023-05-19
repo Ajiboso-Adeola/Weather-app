@@ -1,4 +1,6 @@
+// declare the api key
 let apiKey = "8b3c2188b1fe57f318bdcd6231e30d94";
+// declare the apiUrl
 let apiUrl =
   "https://api.openweathermap.org/data/2.5/weather?units=metric&lang=en";
 
@@ -44,4 +46,27 @@ searchButton.addEventListener("click", () => {
   if (city !== "") {
     checkWeather(city);
   }
+});
+
+//declare the celcius variable
+let cel;
+
+//create a clickable function that convert the temp c to f
+document.getElementById("farenheit").addEventListener("click", () => {
+  //check that the temp value is empty or nor
+  if (document.getElementById("temp").innerHTML != "") {
+    //store the celcius value in integer format
+    cel = parseInt(document.getElementById("temp").innerHTML);
+  }
+
+  //convert in farenheit
+  let fer = Math.floor(cel * 1.8 + 32);
+
+  //display the value
+  document.querySelector(".temp").innerHTML = fer + "°F";
+});
+
+//restore the celcius value
+document.getElementById("celcius").addEventListener("click", () => {
+  document.querySelector(".temp").innerHTML = cel + "°C";
 });
