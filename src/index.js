@@ -1,6 +1,5 @@
 // declare the api key
 let apiKey = "8b3c2188b1fe57f318bdcd6231e30d94";
-// declare the apiUrl
 let apiUrl =
   "https://api.openweathermap.org/data/2.5/weather?units=metric&lang=en";
 
