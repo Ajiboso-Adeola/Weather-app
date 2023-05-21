@@ -27,8 +27,8 @@ This web application is a basic page created using JavaScript, html and css. Cre
 
 👤 **Adeola Ajiboso**
 
-- Github: [@githubhandle](https://github.com/Ajiboso-Adeola)
-- Twitter: [@twitterhandle](https://twitter.com/dde_olla)
+- Github: [githubhandle](https://github.com/Ajiboso-Adeola)
+- Twitter: [twitterhandle](https://twitter.com/dde_olla)
 - Linkedin: [linkedin](https://www.linkedin.com/in/adeola-ajiboso/)
 
 ## 🤝 Contributing
