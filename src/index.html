@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- csS -->
+    <link rel="stylesheet" href="./src/style.css" />
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="./images/clouds.png" type="image/x-icon" />
+    <title>Weather App</title>
+  </head>
+  <body>
+    <div class="card">
+        <h1>Weather App</h1>
+
+        <!-- Search bar start -->
+        <div class="search">
+            <input id="search-result" type="text" placeholder="enter city name" spellcheck="false" name="city" required/>
+            <button class="btn">search</button>
+        </div>
+        <!-- Search bar end -->
+
+        <div class="err">
+            <p>Invalid city name</p>
+        </div>
+
+        <!-- Weather Section start -->
+        <div class="weather">
+            <img src="images/clouds.png" alt=" clouds" class="weather-icon" />
+            <h1 id="temp" class="temp"></h1>
+            <h2 class="city">Lagos, NG</h2>
+        <!-- Weather Section end -->
+
+        <!-- Card section start -->
+        <div class="details">
+            <div class="col">
+                <img src="images/humidity.png" alt="humidity" />
+
+                <div class="card-details">
+                    <p class="humidity">66%</p>
+                    <p>Humidity</p>
+                </div>
+            </div>
+
+
+            <div class="col">
+                <img src="images/barometer.png" alt="barometer" />
+
+                <div class="card-details">
+                    <p class="pressure">1013</p>
+                    <p>Air pressure</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- degree button -->
+        <div class="degree-button">
+            <button id="celcius" class="btn-item1">°C</button>
+            <button id="farenheit" class="btn-item2">°F</button>
+        <div>
+        </div>
+    </div>
+      <script src="./src/index.js"></script>
+    </body>
+  </html>
+  </body>
+</html>
